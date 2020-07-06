@@ -1,7 +1,7 @@
 # Table of contents
 
 * [计算机网络笔记](README.md)
-* [short cut](untitled.md)
-* [性能指标](untitled-1.md)
-* [物理层](wu-li-ceng.md)
+* [short cut](shortcut.md)
+* [性能指标](index.md)
+* [物理层](physical-layer.md)
 
