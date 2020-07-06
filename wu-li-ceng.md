@@ -57,7 +57,7 @@ $$
 2W\times \log _2V\,\,\left( b/s \right)  \tag{1}
 $$
 
-![&#x4ECE;&#x5948;&#x594E;&#x65AF;&#x7279;&#x5B9A;&#x7406;&#x4E2D;&#x53EF;&#x4EE5;&#x5F97;&#x51FA;&#x7684;&#x7ED3;&#x8BBA;](.gitbook/assets/image.png)
+![&#x4ECE;&#x5948;&#x594E;&#x65AF;&#x7279;&#x5B9A;&#x7406;&#x4E2D;&#x53EF;&#x4EE5;&#x5F97;&#x51FA;&#x7684;&#x7ED3;&#x8BBA;](.gitbook/assets/image%20%285%29.png)
 
 **香农定理** : 
 
@@ -95,13 +95,13 @@ $$
 
  信号电平在一个码元之内需要恢复到0的编码方式
 
-![&#x5F52;&#x96F6;&#x7F16;&#x7801;](.gitbook/assets/image%20%284%29.png)
+![&#x5F52;&#x96F6;&#x7F16;&#x7801;](.gitbook/assets/image.png)
 
 ####  3. 反向不归零编码 \(NRZI\)
 
  信号电平翻转表示0, 信号电平不变表示1
 
-![&#x53CD;&#x5411;&#x4E0D;&#x5F52;&#x96F6;&#x7F16;&#x7801;](.gitbook/assets/image%20%285%29.png)
+![&#x53CD;&#x5411;&#x4E0D;&#x5F52;&#x96F6;&#x7F16;&#x7801;](.gitbook/assets/image%20%283%29.png)
 
 ####  4. 曼彻斯特编码
 
@@ -115,13 +115,13 @@ $$
 
  在曼彻斯特编码的基础上采用码间的同或异来表示0, 1 **同1异0**
 
-![NRZ, &#x66FC;&#x5F7B;&#x65AF;&#x7279;, &#x5DEE;&#x5206;&#x66FC;&#x5F7B;&#x65AF;&#x7279;&#x7F16;&#x7801;](.gitbook/assets/image%20%282%29.png)
+![NRZ, &#x66FC;&#x5F7B;&#x65AF;&#x7279;, &#x5DEE;&#x5206;&#x66FC;&#x5F7B;&#x65AF;&#x7279;&#x7F16;&#x7801;](.gitbook/assets/image%20%284%29.png)
 
 ####   **6. 4B/5B编码**
 
  用5bit来表示4bit的数据, 编码效率80%
 
-![4B/5B&#x7F16;&#x7801;](.gitbook/assets/image%20%283%29.png)
+![4B/5B&#x7F16;&#x7801;](.gitbook/assets/image%20%287%29.png)
 
 ###  数字数据调制为模拟信号
 
@@ -140,9 +140,19 @@ $$
 2.  **量化**
 3.  **编码**
 
-![&#x62BD;&#x6837;, &#x91CF;&#x5316;, &#x7F16;&#x7801;](.gitbook/assets/image%20%287%29.png)
+![&#x62BD;&#x6837;, &#x91CF;&#x5316;, &#x7F16;&#x7801;](.gitbook/assets/image%20%282%29.png)
 
 ##  传输介质
+
+*  导向性传输介质
+*  非导向性传输介质
+
+![](.gitbook/assets/image%20%288%29.png)
+
+ **导向性传输介质 :** 
+
+1.  双绞线 
+2.  同轴电缆
 
 
 
