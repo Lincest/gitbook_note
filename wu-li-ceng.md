@@ -38,9 +38,28 @@ description: 物理层内容
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>&#x5E26;&#x5BBD;</b>
+      </td>
+      <td style="text-align:left">&#x7F51;&#x7EDC;&#x4E2D;&#x4E00;&#x70B9;&#x5230;&#x53E6;&#x4E00;&#x70B9;&#x6240;&#x80FD;&#x901A;&#x8FC7;&#x7684;&#x6700;&#x9AD8;&#x6570;&#x636E;&#x7387;</td>
     </tr>
   </tbody>
 </table>
+
+## 奈奎斯特定理和香农定理
+
+**奈奎斯特定理** : 
+
+> 在理想低通条件下, 为了避免码间串扰, 极限码元传输速率为 **2W Baud ,** 其中W为信道带宽, 单位是**HZ**
+
+理想低通信道下的极限数据传输率  =
+
+$$
+2W\times \log _2V\,\,\left( b/s \right)  \tag{1}
+$$
+
+![&#x4ECE;&#x5948;&#x594E;&#x65AF;&#x7279;&#x5B9A;&#x7406;&#x4E2D;&#x53EF;&#x4EE5;&#x5F97;&#x51FA;&#x7684;&#x7ED3;&#x8BBA;](.gitbook/assets/image.png)
+
+**香农定理** : 
+
+
 
