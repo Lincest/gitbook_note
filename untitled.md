@@ -4,8 +4,6 @@ description: temp for check
 
 # short cut
 
-
-
 ##  🖱 导航  <a id="navigation"></a>
 
 | 苹果电脑 | 视窗 | 描述 |
