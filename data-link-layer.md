@@ -35,7 +35,17 @@ description: 数据链路层内容
 
 ![&#x7528;&#x4E00;&#x4E2A;SOH&#x548C;EOT&#x5206;&#x522B;&#x6807;&#x5FD7;&#x5E27;&#x5934;&#x90E8;&#x548C;&#x5C3E;&#x90E8;](https://youpai.roccoshi.top/img/20200707110930.png)
 
- 字符填充法的劣势 : 
+ 上述方法法的劣势 : 
+
+![&#x5982;&#x679C;&#x5728;&#x6570;&#x636E;&#x90E8;&#x5206;&#x51FA;&#x73B0;&#x4E86;EOT, &#x5219;&#x4F1A;&#x5BFC;&#x81F4;&#x8FB9;&#x754C;&#x5224;&#x65AD;&#x9519;&#x8BEF;](https://youpai.roccoshi.top/img/20200707111154.png)
+
+ 解决方法 : 
+
+![&#x5728;&#x6570;&#x636E;&#x4E2D;&#x51FA;&#x73B0;&#x7684;EOT, SOH&#x524D;&#x52A0;&#x5165;&#x8F6C;&#x4E49;&#x5B57;&#x7B26;ESC, &#x8868;&#x793A;&#x8FD9;&#x4E2A;EOT, SOH&#x662F;&#x6570;&#x636E;, &#x4E0D;&#x7528;&#x7BA1;](https://youpai.roccoshi.top/img/20200707111328.png)
+
+ 三. **零比特填充法**
+
+![&#x96F6;&#x6BD4;&#x7279;&#x586B;&#x5145;&#x6CD5;](https://youpai.roccoshi.top/img/20200707111751.png)
 
 
 
