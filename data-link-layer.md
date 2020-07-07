@@ -25,6 +25,18 @@ description: 数据链路层内容
 
 ![&#x6570;&#x636E;&#x94FE;&#x8DEF;&#x5C42;&#x5C06;&#x7F51;&#x7EDC;&#x5C42;&#x7684;ip&#x6570;&#x636E;&#x62A5;&#x52A0;&#x5934;&#x52A0;&#x5C3E;](https://youpai.roccoshi.top/img/20200707102645.png)
 
+ 组帧的几个方案 : 
+
+ 一**. 字符计数法**
+
+![](https://youpai.roccoshi.top/img/20200707110620.png)
+
+ 二. **字符填充法**
+
+![&#x7528;&#x4E00;&#x4E2A;SOH&#x548C;EOT&#x5206;&#x522B;&#x6807;&#x5FD7;&#x5E27;&#x5934;&#x90E8;&#x548C;&#x5C3E;&#x90E8;](https://youpai.roccoshi.top/img/20200707110930.png)
+
+ 字符填充法的劣势 : 
+
 
 
 
